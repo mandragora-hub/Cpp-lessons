@@ -1,1 +1,0 @@
-const char* greeting() { return "Hello world from h"; }
